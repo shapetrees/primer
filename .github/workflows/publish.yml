@@ -1,10 +1,10 @@
 # Workflow for processing and publishing bikeshed proposals to github pages
 
-name: publish proposals
+name: publish primer
 on:
   push:
-    # only concerned with changes in the master branch
-    branches: [ master ]
+    # only concerned with changes in the main branch
+    branches: [ main ]
     # only invoke when a bikeshed document is updated
     # paths: [ '*.bs' ]
 
@@ -51,5 +51,4 @@ jobs:
         with:
           #github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
-          #publish_branch: master
           personal_token: ${{ secrets.GITHUB_TOKEN }}
