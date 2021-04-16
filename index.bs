@@ -51,7 +51,7 @@ Abstract:
 
 Advisement: This Primer is undergoing active development. At this time, and until this advisement is removed,
 it should not be considered as a reliable source of instruction on the use of Shape Trees. Please see the
-[Shape Trees Specification](https://shapetrees.org/TR/specification/index.html) instead.
+[Shape Trees Specification](https://shapetrees.org/TR/specification/) instead.
 
 Introduction {#introduction}
 =====================
