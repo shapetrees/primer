@@ -11,8 +11,8 @@ For applications that operate on more complex and interconnected resources,
 Shape Trees express the layout of those resources and associate them with
 their respective shapes.
 
-* Primer Editor's Draft - [Rendered](https://shapetrees.org/TR/primer/index.html)
-* Specification Editor's Draft - [Rendered](https://shapetrees.org/TR/specification/index.html) - [Source](https://github.com/shapetrees/specification/)
+* Primer Editor's Draft - [Rendered](https://shapetrees.org/TR/primer/)
+* Specification Editor's Draft - [Rendered](https://shapetrees.org/TR/specification/) - [Source](https://github.com/shapetrees/specification/)
 
 Shape Trees are a
 [W3C Solid Community Group](https://www.w3.org/community/solid/) work effort.
