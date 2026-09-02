@@ -1,6 +1,6 @@
 # Shape Trees Primer
 
-This repository contains the Primer for the [Shape Trees Specification](https://shapetrees.org/TR/specification/).
+This repository contains the Primer for the [Shape Trees Specification](https://w3id.org/shapetrees/TR/specification/).
 
 Shape trees marry RDF vocabularies, shapes, and resources into "little trees"
 that provide machine to machine interoperability, combining them into concepts
@@ -11,8 +11,8 @@ For applications that operate on more complex and interconnected resources,
 Shape Trees express the layout of those resources and associate them with
 their respective shapes.
 
-* Primer Editor's Draft - [Rendered](https://shapetrees.org/TR/primer/)
-* Specification Editor's Draft - [Rendered](https://shapetrees.org/TR/specification/) - [Source](https://github.com/shapetrees/specification/)
+* Primer Editor's Draft - [Rendered](https://w3id.org/shapetrees/TR/primer/)
+* Specification Editor's Draft - [Rendered](https://w3id.org/shapetrees/TR/specification/) - [Source](https://github.com/shapetrees/specification/)
 
 Shape Trees are a
 [W3C Solid Community Group](https://www.w3.org/community/solid/) work effort.

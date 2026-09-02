@@ -5,7 +5,8 @@ Level: 1
 Max ToC Depth: 2
 Status: w3c/ED
 Group: w3c
-URL: https://shapetrees.org/TR/primer/
+URL: https://w3id.org/shapetrees/TR/primer/
+Repository: shapetrees/primer
 Editor: Eric Prud'hommeaux
 Editor: Justin Bingham
 Markup Shorthands: markdown yes
@@ -51,7 +52,7 @@ Abstract:
 
 Advisement: This Primer is undergoing active development. At this time, and until this advisement is removed,
 it should not be considered as a reliable source of instruction on the use of Shape Trees. Please see the
-[Shape Trees Specification](https://shapetrees.org/TR/specification/) instead.
+[Shape Trees Specification](https://w3id.org/shapetrees/TR/specification/) instead.
 
 Introduction {#introduction}
 =====================
