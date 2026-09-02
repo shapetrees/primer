@@ -3,9 +3,10 @@ Title: Shape Trees Primer
 Shortname: shapetrees-primer
 Level: 1
 Max ToC Depth: 2
-Status: w3c/ED
-Group: w3c
+Status: CG-DRAFT
+Group: solidcg
 URL: https://w3id.org/shapetrees/TR/primer/
+ED: https://w3id.org/shapetrees/TR/primer/
 Repository: shapetrees/primer
 Editor: Eric Prud'hommeaux
 Editor: Justin Bingham
@@ -106,7 +107,7 @@ The example image includes three columns:
 	</thead>
 </table>
 
-<img src="shape-tree.svg" width="100%" alt="colored example of ShEx schema, shape tree, and resource hierarchy" />
+<img src="shape-tree.svg" width="100%" alt="colored example of ShEx schema, shape tree, and resource hierarchy">
 
 Here, <code class="container">/data/medicalNotes</code> and <code class="container">/data/astronomy/notes</code> are 
 both shape tree instances of the <code class="container">&lt;#container&gt;</code> shape tree.
@@ -146,7 +147,7 @@ A shape tree consists of:
 	* A <dfn>matchesUriTemplate</dfn>: pattern for a resource to be matched against a POSTed Slug: header or a resource name in a PUT/PATCH.<br/>
           This is used to constrain resource creation based resource name patterns.
 * A <dfn>validatedBy</dfn>: The RDF graph structure of any POSTed or PUT resource must conform to this shape;<br/>
-	This allows shape trees to ensure that the data in the resource hierarchy conforms to the expected schemas.</li>
+	This allows shape trees to ensure that the data in the resource hierarchy conforms to the expected schemas.
 * An optional <dfn>supports</dfn>: an IRI to another shape tree.<br/>
 	This captures a relationship where a shape tree is dependent on another for purposes of ancillary tasks like indexing.  It is expected to describe resources which extend or another shape tree.
 * An optional <dfn>contains</dfn>: a list of nested shape trees.<br/>
