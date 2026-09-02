@@ -5,8 +5,8 @@ Level: 1
 Max ToC Depth: 2
 Status: CG-DRAFT
 Group: solidcg
-URL: https://w3id.org/shapetrees/TR/primer/
-ED: https://w3id.org/shapetrees/TR/primer/
+URL: https://shapetrees.github.io/primer/
+ED: https://shapetrees.github.io/primer/
 Repository: shapetrees/primer
 Editor: Eric Prud'hommeaux
 Editor: Justin Bingham
@@ -53,7 +53,7 @@ Abstract:
 
 Advisement: This Primer is undergoing active development. At this time, and until this advisement is removed,
 it should not be considered as a reliable source of instruction on the use of Shape Trees. Please see the
-[Shape Trees Specification](https://w3id.org/shapetrees/TR/specification/) instead.
+[Shape Trees Specification](https://shapetrees.github.io/specification/) instead.
 
 Introduction {#introduction}
 =====================

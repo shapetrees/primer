@@ -1,7 +1,6 @@
 # Build the bikeshed sources and publish them to GitHub Pages.
 #
-# The rendered primer is served at https://shapetrees.github.io/primer/,
-# which https://w3id.org/shapetrees/TR/primer/ redirects to.
+# The rendered primer is served at https://shapetrees.github.io/primer/.
 
 name: publish primer
 
